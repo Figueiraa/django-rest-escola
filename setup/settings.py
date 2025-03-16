@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'escola',
     'rest_framework',
     'django_filters',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
